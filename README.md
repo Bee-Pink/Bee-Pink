@@ -16,7 +16,7 @@
 ## <div align="center">My Tools 💻</div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,git,vscode,obsidian" />
+    <img src="https://skillicons.dev/icons?i=eclipse,git,vscode,visualstudio,obsidian" />
   </a>
 </p>
 <br/>

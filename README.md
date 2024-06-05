@@ -13,7 +13,7 @@
 </p>
 <br/>
 
-## <div align="center">My Tools 💻</div>
+## <div align="center">My Tools ⚙️</div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=eclipse,git,vscode,visualstudio,obsidian" />
